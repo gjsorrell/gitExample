@@ -1,3 +1,2 @@
-boss,slee855,Lee,Sungkyun
-employ,slee855,Lee,Sungkyun
+boss,gjsorell,Sorrell,Gregory
 employee,slee855,Lee,Sungkyun
